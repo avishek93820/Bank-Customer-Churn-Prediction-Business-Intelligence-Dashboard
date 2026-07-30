@@ -229,15 +229,15 @@ Translate machine learning results into actionable business insights.
 
 ## Executive Summary
 
-![Executive Summary](dashboard/Page-1.png)
+![Executive Summary](/Bank-Customer-Churn-Prediction/dashboard/Page-1.png)
 
 ## Customer Behavior Analysis
 
-![Customer Behavior Analysis](dashboard/Page-2.png)
+![Customer Behavior Analysis](/Bank-Customer-Churn-Prediction/dashboard/Page-2.png)
 
 ## Machine Learning Insights
 
-![Machine Learning Insights](dashboard/Page-3.png)
+![Machine Learning Insights](/Bank-Customer-Churn-Prediction/dashboard/Page-3.png)
 
 ---
 
