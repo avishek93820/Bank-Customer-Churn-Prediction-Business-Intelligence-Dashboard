@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square&logo=scikitlearn)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 
 ---
 
