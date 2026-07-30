@@ -229,15 +229,15 @@ Translate machine learning results into actionable business insights.
 
 ## Executive Summary
 
-![Executive Summary](images/Page-1.png)
+![Executive Summary](dashboard/Page-1.png)
 
 ## Customer Behavior Analysis
 
-![Customer Behavior Analysis](images/Page-2.png)
+![Customer Behavior Analysis](dashboard/Page-2.png)
 
 ## Machine Learning Insights
 
-![Machine Learning Insights](images/Page-3.png)
+![Machine Learning Insights](dashboard/Page-3.png)
 
 ---
 
